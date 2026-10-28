@@ -1,0 +1,17 @@
+﻿## Visual Studio & .NET Build Artifacts
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+## Environment Variables & Secrets
+.env
+*.env
+*.env.local
+
+## SQL Server Engine files
+*.mdf
+*.ldf
